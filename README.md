@@ -37,3 +37,8 @@ how to write a markdown document and clone a repo**
 
 ![Figure 1: Clone](figure1_url.png)
 Figure 1: Clone
+
+
+![Figure 2: github](figure2_github.png)
+Figure 2: github
+
