@@ -32,4 +32,8 @@ below example
 **Good Job. You have created a new repository including a readme file and you have learned
 how to write a markdown document and clone a repo**
 
-![Figure 1: Clone](figure 1 clone url.png)
+
+
+
+![Figure 1: Clone](figure1_url.png)
+Figure 1: Clone
